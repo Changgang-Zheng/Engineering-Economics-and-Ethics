@@ -1,0 +1,17 @@
+# software project
+1. Abandon of the hardware from other country. == Country Risk
+2. Human failure and damage the entire service. == Human errors
+3. System updated and software are on longer supported. == Market Risk
+
+
+# fashion product 
+1. The trend of the fashion is changed.
+2. The infringement risk.
+3. Our raw design is leak and there is already other company produce similar products.
+
+
+# developing a new technology product
+1. Abandon of the hardware from other country. == Country Risk
+2. The cut-off technology is released and our product is no longer needed.
+3. Human failure and damage the entire service. == Human errors
+4. The heavier censorship from the government 
